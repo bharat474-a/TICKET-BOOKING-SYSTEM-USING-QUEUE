@@ -1,4 +1,3 @@
-Dynamic Booking Dispatch System
 A robust, console-based ticket management system implemented in C, leveraging a Queue
 data structure (First-In, First-Out) to ensure fair and sequential service for patrons.
 This project demonstrates practical data structure implementation for managing linear service
